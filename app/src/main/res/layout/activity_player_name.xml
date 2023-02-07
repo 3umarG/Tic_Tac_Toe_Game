@@ -28,7 +28,7 @@
         android:layout_marginTop="@dimen/_16sdp"
         android:hint="@string/player_name"
         android:padding="@dimen/_4sdp"
-        android:textColorHint="@color/colorTextSecondary"
+        android:textColorHint="@color/colorAccent"
         app:boxStrokeColor="@color/purple_white">
 
         <com.google.android.material.textfield.TextInputEditText
